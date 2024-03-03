@@ -1,5 +1,5 @@
 # stealth_assignment
 
-## setup virtual environment
+1. setup virtual environment
 
-run the detect.ipynb
+2. run the detect.ipynb
